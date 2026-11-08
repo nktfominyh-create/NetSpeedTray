@@ -1,0 +1,9 @@
+# Скомпилированный exe
+NetSpeedTray.exe
+
+# Временные и служебные файлы
+*.user
+*.suo
+.vs/
+bin/
+obj/
